@@ -17,7 +17,7 @@ Demonstrated leadership and teamwork capabilities by leading and mentoring a tea
 ## 🛠️ Core Skills
 - Programming & Querying: Python (Pandas, NumPy), SQL
 - Data Analysis: Data Cleaning, EDA, Data Manipulation, Data Mining
-- Visualization: Power BI, Excel (Advanced)
+- Visualization: Power BI, Excel (Advanced), Python(Matplotlib, Seaborn)
 - Concepts: Data Modeling, Statistical Analysis (Descriptive & Inferential)
 - Business Skills: Structured Problem Solving, Business Analysis, KPI Tracking
 
