@@ -32,7 +32,9 @@ Demonstrated leadership and teamwork capabilities by leading and mentoring a tea
 ### 🧑‍💼 Employee Performance Analysis (Python):
 - Cleaned and processed multiple datasets using Pandas & NumPy
 - Applied business logic to derive cost insights and performance metrics
-
+### 🏭 Industrial Sensor Monitoring & Process Analytics
+- Engineered and aligned multi-frequency manufacturing sensor datasets with quality metrics using time-series aggregation and data integration techniques
+- Performed industrial process analytics to identify sensor-driven quality patterns using Python, Pandas, and EDA
 
 ## 🎯 Career Objective
-📈 To contribute as a Data Analyst, leveraging data to drive strategic and data-driven decision
+📈 To contribute as an Analyst, leveraging data to drive strategic and data-driven decision
