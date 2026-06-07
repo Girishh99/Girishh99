@@ -23,16 +23,17 @@ Demonstrated leadership and teamwork capabilities by leading and mentoring a tea
 
 
 ## 💼 Project Experience
+### 🧑‍💼 AI-Powered Sales Forecasting & Business Insights Dashboard (Python, Power BI):
+- An end-to-end analytics solution that transforms raw retail data into actionable business insights through forecasting, KPI monitoring, and performance analysis.
+- The project demonstrates data cleaning, feature engineering, predictive modeling, and dashboard development to support strategic business decisions.
+### 🧾 Enterprise Supply Chain Intelligence System (SQL):
+- End-to-end SQL analytics project focused on supply chain and inventory optimization using sales, inventory, warehouse, and customer data.
+- Features include ABC inventory classification, stockout risk analysis, warehouse performance analysis, and RFM customer segmentation.
+- Implemented ranking & segmentation for business insights
 ### 📊 E-commerce Analytics:
 - Analyzed 9+ datasets to evaluate revenue trends, LTV, and delivery performance
 - Built data models and Power BI dashboards for KPI tracking
-### 🧾 Retail Data Analysis (SQL):
-- Performed multi-table joins & aggregations to analyze sales, returns, and product performance
-- Implemented ranking & segmentation for business insights
-### 🧑‍💼 Employee Performance Analysis (Python):
-- Cleaned and processed multiple datasets using Pandas & NumPy
-- Applied business logic to derive cost insights and performance metrics
-### 🏭 Industrial Sensor Monitoring & Process Analytics
+### 🏭 Industrial Sensor Monitoring & Process Analytics (Python - Pandas, Matplotlib, Seaborn)
 - Engineered and aligned multi-frequency manufacturing sensor datasets with quality metrics using time-series aggregation and data integration techniques
 - Performed industrial process analytics to identify sensor-driven quality patterns using Python, Pandas, and EDA
 
