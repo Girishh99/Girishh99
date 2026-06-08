@@ -1,4 +1,4 @@
-# 🚀 Analyst | Python • SQL • Power BI | Data → Clarity → Decisions
+# 🚀 Analyst | Excel • Python • SQL • Power BI | Data → Clarity → Decisions
 
 ## 👨‍💻 About Me
 Data Analytics professional with a background in Mechanical Engineering, skilled in extracting insights from complex datasets to support business decision-making. Experienced in working with relational data, performing data cleaning, transformation, and exploratory data analysis using Python and SQL.
